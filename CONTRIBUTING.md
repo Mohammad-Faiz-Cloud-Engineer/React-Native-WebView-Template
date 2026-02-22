@@ -60,7 +60,7 @@ Before submitting:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/react-native-webview-template.git
+git clone https://github.com/Mohammad-Faiz-Cloud-Engineer/React-Native-WebView-Template.git
 
 # Install dependencies
 npm install
