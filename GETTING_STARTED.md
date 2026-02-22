@@ -24,8 +24,8 @@ Ensure you have the following installed:
 
 1. **Clone or download this template**
    ```bash
-   git clone https://github.com/yourusername/react-native-webview-template.git
-   cd react-native-webview-template
+   git clone https://github.com/Mohammad-Faiz-Cloud-Engineer/React-Native-WebView-Template.git
+   cd React-Native-WebView-Template
    ```
 
 2. **Install dependencies**
